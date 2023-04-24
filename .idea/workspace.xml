@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0f4a541e-5069-43a6-9c9e-9b620b6c9357" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/LibraryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/LibraryController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/controllers/LibraryControllerForCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/LibraryControllerForCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/MenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/SQLConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/SQLConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enties/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enties/Books.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enties/Customers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enties/Customers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

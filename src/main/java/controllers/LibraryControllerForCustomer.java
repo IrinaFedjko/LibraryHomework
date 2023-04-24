@@ -29,7 +29,7 @@ public class LibraryControllerForCustomer {
             String email1 = JOptionPane.showInputDialog(null, "Please enter your email: ");
             Connection conn = SQLConnector.getConnection();
             Statement statement = conn.createStatement();
-            ResultSet resultSet = statement.executeQuery("SELECT * FROM customers WHERE userName = 'Lana'  AND email = 'lana@Gmail.com' ");
+            ResultSet resultSet = statement.executeQuery("SELECT * FROM customers WHERE userName IS NOT NULL AND email IS NOT NULL");
             List<Customers> customers = new ArrayList<>();
             while (resultSet.next()) {
                 int id = resultSet.getInt("id");
